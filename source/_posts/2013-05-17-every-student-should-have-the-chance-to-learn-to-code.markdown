@@ -3,7 +3,7 @@ layout: post
 title: "Every Student Should Have The Chance To Learn To Code"
 date: 2013-05-17 22:12
 comments: false
-categories: code programming
+categories: code programming video
 ---
 
 This video expresses the idea that students in all schools should have a chance to experience programming.
