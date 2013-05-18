@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Danika Shumate]]></title>
+  <link href="http://danishumate.github.io/atom.xml" rel="self"/>
+  <link href="http://danishumate.github.io/"/>
+  <updated>2013-05-17T22:54:04-04:00</updated>
+  <id>http://danishumate.github.io/</id>
+  <author>
+    <name><![CDATA[Danika Shumate]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Every Student Should Have The Chance To Learn To Code]]></title>
+    <link href="http://danishumate.github.io/blog/2013/05/17/every-student-should-have-the-chance-to-learn-to-code/"/>
+    <updated>2013-05-17T22:12:00-04:00</updated>
+    <id>http://danishumate.github.io/blog/2013/05/17/every-student-should-have-the-chance-to-learn-to-code</id>
+    <content type="html"><![CDATA[<p>This video expresses the idea that students in all schools should have a chance to experience programming.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/nKIu9yen5nc "></iframe></div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
