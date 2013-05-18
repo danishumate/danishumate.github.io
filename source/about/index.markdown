@@ -7,6 +7,8 @@ sharing: true
 footer: true
 ---
 
+{% img right /images/danika_riding.jpg %}
+
 Hello I'm Danika Shumate.
 I live in the mountains of North Carolina. I like to program with my dad and longboard in my spare time.
 I have awesome parents and a brother who should grow up to be a comedian.
